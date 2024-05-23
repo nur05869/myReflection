@@ -16,7 +16,7 @@ These projects collectively have broadened my perspective on full-stack developm
 
 ## Description
 
-This repository contains a dynamic web development project utilizing JavaScript, Node.js, and SQLite. The project is designed to handle and manage data related to traffic violations and bad drivers through a dynamically generated server. It demonstrates the practical application of RESTful services, focusing on how to perform Create, Read, Update, and Delete (CRUD) operations on a database through a web interface. The project highlights key aspects of server-side scripting and database management, providing a comprehensive learning experience for web development students.
+This repository contains a dynamic web development project utilizing JavaScript, Node.js, and SQLite. The project is designed to handle and manage data related to traffic violations and bad drivers through a dynamically generated server. It demonstrates the practical application of RESTful services, focusing on how to perform Create, Read, Update, and Delete operations on a database through a web interface. The project highlights key aspects of server-side scripting and database management, providing a comprehensive learning experience for web development students.
 
 ### Domain-Specific Perspective: Traffic Violation Data Management
 
